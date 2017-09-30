@@ -1,0 +1,6 @@
+D:\E\WORK\APP\设计模式\observer2\observer2\bin\Debug\observer2.exe.config
+D:\E\WORK\APP\设计模式\observer2\observer2\bin\Debug\observer2.exe
+D:\E\WORK\APP\设计模式\observer2\observer2\bin\Debug\observer2.pdb
+D:\E\WORK\APP\设计模式\observer2\observer2\obj\Debug\observer2.csprojResolveAssemblyReference.cache
+D:\E\WORK\APP\设计模式\observer2\observer2\obj\Debug\observer2.exe
+D:\E\WORK\APP\设计模式\observer2\observer2\obj\Debug\observer2.pdb
